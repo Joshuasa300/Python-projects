@@ -21,7 +21,7 @@
 
    <div>
     <h3>Fibonacci</h3>
-    <img src="IMG5.PNG" style="width:400px;height:400px; position: absolute; top: 20px; right: 30px;">
+    <img src="IMG5.PNG" style="width:400px;height:400px;">
   </div>
   
   <div>
